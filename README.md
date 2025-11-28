@@ -36,7 +36,7 @@ The analysis resulted in five clearly defined user segments, each named based on
 The Radar Chart below visually demonstrates the strengths and weaknesses of each segment across the key behavioral metrics.
 
 **Radar Chart Visualization**
-![Radar Chart comparing 5 user segments](docs/1.jpg) 
+![Radar Chart comparing 5 user segments](pics/1.jpg) 
 *Figure 1: Comparison of Segment Means across Key Features (Radar Chart)*
 
 ---
