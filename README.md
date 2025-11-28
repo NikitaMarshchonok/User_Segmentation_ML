@@ -36,7 +36,7 @@ The analysis resulted in five clearly defined user segments, each named based on
 The Radar Chart below visually demonstrates the strengths and weaknesses of each segment across the key behavioral metrics.
 
 **Radar Chart Visualization**
-![Radar Chart comparing 5 user segments](pics/1.jpg) 
+![Radar Chart comparing 5 user segments](pics/1.png)
 *Figure 1: Comparison of Segment Means across Key Features (Radar Chart)*
 
 ---
@@ -50,7 +50,7 @@ Detailed distribution plots supporting the segmentation results:
 *Figure 2: Distribution of Likes and Reactions across 5 Clusters*
 
 **Time Spent Online (Weekday) by Cluster**
-![Histogram of Time Spent Online on Weekdays per cluster](pics/3.jpg) 
+![Histogram of Time Spent Online on Weekdays per cluster](pics/3.png)
 *Figure 3: Distribution of Weekday Online Time across 5 Clusters*
 
 **Time Spent Online (Weekend) by Cluster**
