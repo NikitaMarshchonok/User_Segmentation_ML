@@ -1,0 +1,15 @@
+# Виртуальное окружение
+venv/
+.env
+
+# Временные файлы Python
+__pycache__/
+*.pyc
+
+# Файлы Jupyter Notebooks и Colab
+.ipynb_checkpoints/
+.DS_Store
+
+# Большие файлы (если понадобятся)
+# data/*.csv
+# data/*.zip
