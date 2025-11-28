@@ -30,6 +30,39 @@ The analysis resulted in five clearly defined user segments, each named based on
 | **3** | **Active Explorers** | High weekday and weekend activity, **high Click-Through Rates (CTR)**. | Use action-oriented ads that encourage immediate interaction. |
 | **4** | **Budget Browsers** | Low recorded income, moderate online activity. | Focus campaigns heavily on discounts, sales, and promotional offers. |
 
+...
+### Segment Comparison (Radar Chart)
+
+The Radar Chart below visually demonstrates the strengths and weaknesses of each segment across the key behavioral metrics.
+
+**Radar Chart Visualization**
+![Radar Chart comparing 5 user segments](docs/1.jpg) 
+*Figure 1: Comparison of Segment Means across Key Features (Radar Chart)*
+
+---
+
+### Supporting Visualizations
+
+Detailed distribution plots supporting the segmentation results:
+
+**Likes and Reactions by Cluster**
+![Histogram of Likes and Reactions per cluster](pics/2.png) 
+*Figure 2: Distribution of Likes and Reactions across 5 Clusters*
+
+**Time Spent Online (Weekday) by Cluster**
+![Histogram of Time Spent Online on Weekdays per cluster](pics/3.jpg) 
+*Figure 3: Distribution of Weekday Online Time across 5 Clusters*
+
+**Time Spent Online (Weekend) by Cluster**
+![Histogram of Time Spent Online on Weekends per cluster](pics/4.png) 
+*Figure 4: Distribution of Weekend Online Time across 5 Clusters*
+
+**Click-Through Rates (CTR) by Cluster**
+![Histogram of Click-Through Rates per cluster](pics/5.png) 
+*Figure 5: Distribution of Click-Through Rates across 5 Clusters*
+
+...
+
 ### Segment Comparison (Radar Chart)
 
 The Radar Chart below visually demonstrates the strengths and weaknesses of each segment across the key behavioral metrics.
