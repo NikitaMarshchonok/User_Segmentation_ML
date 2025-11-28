@@ -41,3 +41,22 @@ The Radar Chart below visually demonstrates the strengths and weaknesses of each
 ## 📂 Project Structure
 
 The repository adheres to a standard data science project layout, ensuring clarity and reproducibility:
+
+User_Segmentation_ML/
+├── data/
+│   └── user_profiles_for_ads.csv          # Raw input user data for segmentation
+│
+├── models/
+│   ├── kmeans_model.joblib                # Trained K-Means clustering model
+│   └── data_scaler.joblib                 # Fitted StandardScaler for feature scaling
+│
+├── notebooks/
+│   └── user_segmentation_analysis.ipynb   # Main exploratory analysis & modeling notebook
+│
+├── src/
+│   └── preprocessing.py                   # Reusable functions (cleaning, scaling, feature prep)
+│
+├── .gitignore                             # Ignore venv/, models/, checkpoints, etc.
+├── requirements.txt                       # Python dependencies for the project
+└── README.md                              # Project description and usage instructions
+
