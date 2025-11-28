@@ -44,34 +44,35 @@ The repository adheres to a standard data science project layout, ensuring clari
 
 User_Segmentation_ML/
 
-├── data/
+  ├── data/
 
-│   └── user_profiles_for_ads.csv          # Raw input user data for segmentation
+  │   └── user_profiles_for_ads.csv          # Raw input user data for segmentation
 
-│
+  │
 
-├── models/
+  ├── models/
 
-│   ├── kmeans_model.joblib                # Trained K-Means clustering model
+  │   ├── kmeans_model.joblib                # Trained K-Means clustering model
 
-│   └── data_scaler.joblib                 # Fitted StandardScaler for feature scaling
+  │   └── data_scaler.joblib                 # Fitted StandardScaler for feature scaling
 
-│
+  │
 
-├── notebooks/
+  ├── notebooks/
 
-│   └── user_segmentation_analysis.ipynb   # Main exploratory analysis & modeling notebook
+  │   └── user_segmentation_analysis.ipynb   # Main exploratory analysis & modeling notebook
 
-│
+  │
 
-├── src/
+  ├── src/
 
-│   └── preprocessing.py                   # Reusable functions (cleaning, scaling, feature prep)
+  │   └── preprocessing.py                   # Reusable functions (cleaning, scaling, feature prep)
 
-│
+  │
 
-├── .gitignore                             # Ignore venv/, models/, checkpoints, etc.
+  ├── .gitignore                             # Ignore venv/, models/, checkpoints, etc.
 
-├── requirements.txt                       # Python dependencies for the project
-└── README.md                              # Project description and usage instructions
+  ├── requirements.txt                       # Python dependencies for the project
+
+  └── README.md                              # Project description and usage instructions
 
