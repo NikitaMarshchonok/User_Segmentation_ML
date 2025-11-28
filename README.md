@@ -76,3 +76,44 @@ User_Segmentation_ML/
 
     └── README.md                              # Project description and usage instructions
 
+
+## 🛠️ Setup and Execution
+
+To run this project locally, follow these steps:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone
+    cd User_Segmentation_ML
+    ```
+
+2.  **Create and activate the virtual environment (venv):**
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # macOS/Linux
+    # or
+    .\venv\Scripts\activate  # Windows
+    ```
+
+3.  **Install project dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4.  **Run the analysis:**
+    * Open **`notebooks/user_segmentation_analysis.ipynb`** in VS Code or Jupyter Lab.
+    * Run all cells sequentially. *Note: Ensure the path-fixing cell (`sys.path.append`) is run first to load the modules from `src/`.*
+
+---
+
+## 💻 Technologies Used
+
+* **Python 3.x**
+* **Pandas** (Data Manipulation)
+* **Scikit-learn** (K-Means Clustering, Scaling)
+* **Plotly** (Interactive Data Visualization)
+* **Joblib** (Model Persistence)
+
+
+Author:
+Nikita Marshchonok
