@@ -151,3 +151,4 @@ To run this project locally, follow these steps:
 Author:
 Nikita Marshchonok
 linkedIn: https://www.linkedin.com/in/nikita-marshchonok
+Github: https://github.com/NikitaMarshchonok
