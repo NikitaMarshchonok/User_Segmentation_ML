@@ -71,7 +71,7 @@ The Radar Chart below visually demonstrates the strengths and weaknesses of each
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 The repository adheres to a standard data science project layout, ensuring clarity and reproducibility:
 
