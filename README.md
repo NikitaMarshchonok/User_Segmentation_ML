@@ -1,12 +1,12 @@
-# 🌟 User Segmentation ML Project (K-Means Clustering)
+#  User Segmentation ML Project (K-Means Clustering)
 
-## 🎯 Project Goal
+##  Project Goal
 
 The primary objective of this project is to perform **user segmentation** based on their behavioral data (online activity, engagement, and click-through rates). By using the **K-Means clustering** algorithm, the project creates clear, actionable user profiles to enhance targeted advertising and personalize marketing strategies.
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 This project follows a professional, modular structure:
 
