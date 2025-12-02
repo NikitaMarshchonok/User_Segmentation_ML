@@ -139,7 +139,7 @@ To run this project locally, follow these steps:
 
 ---
 
-## 💻 Technologies Used
+##  Technologies Used
 
 * **Python 3.x**
 * **Pandas** (Data Manipulation)
