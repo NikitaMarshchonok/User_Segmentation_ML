@@ -18,7 +18,7 @@ This project follows a professional, modular structure:
 
 ---
 
-## 📊 Key Findings (Segment Profiles)
+##  Key Findings (Segment Profiles)
 
 The analysis resulted in five clearly defined user segments, each named based on their most defining characteristics:
 
@@ -110,7 +110,7 @@ User_Segmentation_ML/
     └── README.md                              # Project description and usage instructions
 
 
-## 🛠️ Setup and Execution
+##  Setup and Execution
 
 To run this project locally, follow these steps:
 
